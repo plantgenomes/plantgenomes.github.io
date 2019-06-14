@@ -101,3 +101,4 @@
 1. [黑树莓基因组论文发表于Plant Journal](https://mp.weixin.qq.com/s/ka7w0YxPmqH4kj1XzWHhpw). 2016-06-02.
 
 ---
+![](/img/plantgenomes.png)
