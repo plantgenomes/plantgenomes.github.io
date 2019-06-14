@@ -5,19 +5,19 @@
 1. [CoCo: 考虑嵌套基因的 RNA-seq 定量软件](https://mp.weixin.qq.com/s/GAqSyzNp4yBeA3l8VAUerw). 2019-06-11.
 1. [novoCaller: 利用贝斯网络方法从家系和群体测序数据中鉴定新发生的变异](https://mp.weixin.qq.com/s/7UDCVwjdhfizFHTDWanJnA). 2019-06-07.
 1. [netmap(): 利用离散图模型构建多倍体遗传连锁图谱](https://mp.weixin.qq.com/s/eqn3St4V4fMA3AgXH_DNlA). 2019-06-06
-1. [Science | 休息也是一项艰苦的工作](https://mp.weixin.qq.com/s/EyWxg5-ms38iFF2qeD9axg). 2019-05-26.
+1. [Science \| 休息也是一项艰苦的工作](https://mp.weixin.qq.com/s/EyWxg5-ms38iFF2qeD9axg). 2019-05-26.
 1. [单词释义：strew, slouch, far cry, etc](https://mp.weixin.qq.com/s/tsy_wUs3C-Nhb0OVRpGoEg). 2019-05-26.
-1. [Science | 揭开"隐性课程"](https://mp.weixin.qq.com/s/20doaY1EELj_Sqyj_be5xw). 2019-05-22.
-1. [Science | 为科学歌唱](https://mp.weixin.qq.com/s/4gyr0Bcvf83PUVaCiQsEpQ). 2019-05-16.
-1. [Plant Cell | 花分生组织中抑制 WUSCHEL 基因表达的分子机制](https://mp.weixin.qq.com/s/z8nFmSnVy3sXLNmHUh8BKw). 2019-05-10.
+1. [Science \| 揭开"隐性课程"](https://mp.weixin.qq.com/s/20doaY1EELj_Sqyj_be5xw). 2019-05-22.
+1. [Science \| 为科学歌唱](https://mp.weixin.qq.com/s/4gyr0Bcvf83PUVaCiQsEpQ). 2019-05-16.
+1. [Plant Cell \| 花分生组织中抑制 WUSCHEL 基因表达的分子机制](https://mp.weixin.qq.com/s/z8nFmSnVy3sXLNmHUh8BKw). 2019-05-10.
 1. [ASTRAL-MP：通过随机化和并行化将 ASTRAL 扩展到非常大的数据集](https://mp.weixin.qq.com/s/P08D3h1wyRKcJpqhDSGimQ). 2019-03-31.
 1. [GenomeWarp: 不同 assembly 之间高效转换 gVCF 文件的坐标](https://mp.weixin.qq.com/s/ko57C5dkfdlAzSRZJFCEZQ). 2019-03-28.
 1. [FLAS: 快速、高通量的 PacBio long read 自校正算法](https://mp.weixin.qq.com/s/gZfB38d-66wPSDDq71yWkg). 2019-03-22.
 1. [PopLDdecay: 基于 VCF 文件的快速、高效计算连锁不平衡的工具](https://mp.weixin.qq.com/s/vAulYqJT_y0OjeV3fnmIUQ). 2019-03-19.
-1. [分享文章：浅析 Bash 中的 {花括号} | Linux 中国](https://mp.weixin.qq.com/s/vUurau58T7WEbiJ6chlkMw). 2019-03-18.
+1. [分享文章：浅析 Bash 中的 {花括号} \| Linux 中国](https://mp.weixin.qq.com/s/vUurau58T7WEbiJ6chlkMw). 2019-03-18.
 1. [利用 Chrome 浏览器切割 PDF 文档](https://mp.weixin.qq.com/s/XA4c2v9-nTUM1zVqNsKD_g). 2019-02-26.
 1. [PBAP: 处理高密度遗传标记的家系数据的 pipeline](https://mp.weixin.qq.com/s/zMuDqOpSBTQATA5Wopp3Ig). 2019-02-17.
-1. [Nat Commun | 逆境中心破译糜子基因组](https://mp.weixin.qq.com/s/do_v_W3QBpISqcKkwLc7AA). 2019-01-25.
+1. [Nat Commun \| 逆境中心破译糜子基因组](https://mp.weixin.qq.com/s/do_v_W3QBpISqcKkwLc7AA). 2019-01-25.
 1. [Crisflash: 基于VCF文件设计CRISPR guide RNA的软件](https://mp.weixin.qq.com/s/dLU-pCFB0rJ-T7xM8LA_bw). 2019-01-20.
 1. [GTRD：基因转录调节数据库－2019年更新](https://mp.weixin.qq.com/s/uQ2vlZUhqlLtdCuYqCz1gA). 2019-01-04.
 1. [STRING v11: 蛋白互作网络数据库](https://mp.weixin.qq.com/s/B2c9eIoI22JXgfbkyHhWPQ). 2019-01-03.
@@ -75,7 +75,7 @@
 1. [Genome Research: 改良版的异源六倍体小麦基因组组装和注释](https://mp.weixin.qq.com/s/C2zYJpFD44CYaa1BKhz0KQ). 2017-05-20.
 1. [Nature Biotechnology: 利用TACCA技术从六倍体小麦中快速克隆基因](https://mp.weixin.qq.com/s/x0zwGAgWkx3cMXx97zOMTA). 2017-05-19.
 1. [Nature Genetics: 银桦（silver birch）基因组论文](https://mp.weixin.qq.com/s/kFkV_qJfRO26MM135-rdKw). 2017-05-18.
-1. [“天为什么是蓝色的”一百年|方励之](https://mp.weixin.qq.com/s/6SlGR-tA_LYwTyQox1dhVw). 2017-03-15.
+1. [“天为什么是蓝色的”一百年\|方励之](https://mp.weixin.qq.com/s/6SlGR-tA_LYwTyQox1dhVw). 2017-03-15.
 1. [MobaXterm](https://mp.weixin.qq.com/s/jgqGIG5d5Ht5rD4PaRWZfQ). 2017-02-21.
 
 ### **2016**
