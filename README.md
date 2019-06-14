@@ -1,6 +1,6 @@
-## 植物基因组(plantgenomes)微信公众号推文列表
+# 植物基因组(plantgenomes)微信公众号推文列表
 
-### **2019**
+## **2019**
 
 1. [CoCo: 考虑嵌套基因的 RNA-seq 定量软件](https://mp.weixin.qq.com/s/GAqSyzNp4yBeA3l8VAUerw). 2019-06-11.
 1. [novoCaller: 利用贝斯网络方法从家系和群体测序数据中鉴定新发生的变异](https://mp.weixin.qq.com/s/7UDCVwjdhfizFHTDWanJnA). 2019-06-07.
@@ -23,7 +23,7 @@
 1. [STRING v11: 蛋白互作网络数据库](https://mp.weixin.qq.com/s/B2c9eIoI22JXgfbkyHhWPQ). 2019-01-03.
 1. [BioGRID 互作数据库：2019年更新](https://mp.weixin.qq.com/s/3udf7gjWoWUK8gKXjOZo5A). 2019-01-02.
 
-### **2018**
+## **2018**
 
 1. [KrakenUniq: 一个新的宏基因组学聚类软件](https://mp.weixin.qq.com/s/2C1oo6JHuw9pT0fMHSGB2A). 2018-12-29.
 1. [SAM/BAM/samtools 十岁了](https://mp.weixin.qq.com/s/g8eay_rNBcUc6C8OuvZy7Q). 2018-12-25.
@@ -49,7 +49,7 @@
 1. [安装 MareyMap 软件](https://mp.weixin.qq.com/s/oQNIRWZF_TnlUOfZxwzgWw). 2018-04-15.
 1. [安装 Picard 软件](https://mp.weixin.qq.com/s/hrmM9ajiStULa3q0s6ShBg). 2018-04-13.
 
-### **2017**
+## **2017**
 
 1. [F1000Research: 甘蔗品种 SP80-3280 的基因组序列](https://mp.weixin.qq.com/s/gDcJQefJQ3qZHn0D154SpQ). 2017-07-10.
 1. [Plant Journal: 四川农大发表小麦 GWAS 论文](https://mp.weixin.qq.com/s/NBfoNIo1yYpbRgy9aU-WKQ). 2017-07-08.
@@ -78,7 +78,7 @@
 1. [“天为什么是蓝色的”一百年\|方励之](https://mp.weixin.qq.com/s/6SlGR-tA_LYwTyQox1dhVw). 2017-03-15.
 1. [MobaXterm](https://mp.weixin.qq.com/s/jgqGIG5d5Ht5rD4PaRWZfQ). 2017-02-21.
 
-### **2016**
+## **2016**
 
 1. [物种树与基因树不一致：拟南芥属所有物种基因组重测序](https://mp.weixin.qq.com/s/f6Pka3QMFGYw4qZkE_nUgw). 2016-07-20.
 1. [二代+三代测序获得N50为12.8 Mb的拟南芥Ler基因组组装](二代+三代测序获得N50为12.8 Mb的拟南芥Ler基因组组装). 2016-07-10.
