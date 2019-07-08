@@ -2,6 +2,12 @@
 
 ## **2019**
 
+1. [CHETAH: 单细胞 RNA 测序的一个选择性的、层级式的细胞类型鉴定方法](https://mp.weixin.qq.com/s/8X9Ok7xnTL4Jn3rrK7LkjQ). 2019-07-07.
+1. [NAR \| 鉴定调节DNA甲基化的基序](https://mp.weixin.qq.com/s/i3ZnlIvfYTBr-s-crnGHBg). 2019-07-06.
+1. [DeepSignal: 利用深度学习从 Nanopore 测序 reads 中检测 DNA 甲基化状态](https://mp.weixin.qq.com/s/QhJoOZ5HwrSm82-SOs9iNw). 2019-07-03.
+1. [PyPore: Nanopore 测序数据处理工具](https://mp.weixin.qq.com/s/9W5xngteQ91cnELhH7nWeQ). 2019-06-30.
+1. [Nanopype: 模块化、可伸缩的 Nanopore 数据处理 pipeline](https://mp.weixin.qq.com/s/ohpiDSrjz9E3vf2S5J5NIg). 2019-06-19.
+1. [CN-Learn: 从外显子测序中精确检测拷贝数变异的机器学习方法](https://mp.weixin.qq.com/s/LPJWzyCISDbn3ndaG5X8nQ). 2019-06-13.
 1. [CoCo: 考虑嵌套基因的 RNA-seq 定量软件](https://mp.weixin.qq.com/s/GAqSyzNp4yBeA3l8VAUerw). 2019-06-11.
 1. [novoCaller: 利用贝斯网络方法从家系和群体测序数据中鉴定新发生的变异](https://mp.weixin.qq.com/s/7UDCVwjdhfizFHTDWanJnA). 2019-06-07.
 1. [netmap(): 利用离散图模型构建多倍体遗传连锁图谱](https://mp.weixin.qq.com/s/eqn3St4V4fMA3AgXH_DNlA). 2019-06-06
