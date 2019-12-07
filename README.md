@@ -103,7 +103,7 @@
 ## **2016**
 
 1. [物种树与基因树不一致：拟南芥属所有物种基因组重测序](https://mp.weixin.qq.com/s/f6Pka3QMFGYw4qZkE_nUgw). 2016-07-20.
-1. [二代+三代测序获得N50为12.8 Mb的拟南芥Ler基因组组装](二代+三代测序获得N50为12.8 Mb的拟南芥Ler基因组组装). 2016-07-10.
+1. [二代+三代测序获得N50为12.8 Mb的拟南芥Ler基因组组装](https://mp.weixin.qq.com/s/hkJVZjpHpD-CrNOlfPA2Ig). 2016-07-10.
 1. [南半球海草基因组论文发表于《Plant Physiology》](https://mp.weixin.qq.com/s/fVLhIT9Prm5gQsQzCTKTrA). 2016-07-06.
 1. [荞麦基因组论文发表于 DNA Research](https://mp.weixin.qq.com/s/QtZsnbcdk_xjo7QYSesGvw). 2016-06-24.
 1. [高效统计分析中的十个简单规则](https://mp.weixin.qq.com/s/6HhJ1PzfW_SCXmBrFAaqLg). 2016-06-16.
