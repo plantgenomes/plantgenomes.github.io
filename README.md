@@ -2,6 +2,22 @@
 
 ## **2019**
 
+1. [Fusion-Bloom: 从组装的转录组中检测融合基因](https://mp.weixin.qq.com/s/qDpKj7q15z1sxdEZbTK6SQ). 2019-12-06.
+1. [Sequenceserver: 自定义 BLAST 数据库的摩登图形用户界面](https://mp.weixin.qq.com/s/b0ZQyN6Ov4Sb4SLk3QOzeg). 2019-12-01.
+1. [CDD/SPARCLE: 保守结构域数据库 2020](https://mp.weixin.qq.com/s/gCz1yQUZoAOj75L7qRgYFQ). 2019-11-30. 
+1. [Cell Research \| RNA Granule 数据库](https://mp.weixin.qq.com/s/x-i0XjphcW-Uq2EtUmZDdw). 2019-11-29.
+1. [CRISPRitz: CRISPR 基因组编辑脱靶鉴定软件](https://mp.weixin.qq.com/s/XH5a7xIqJHV4N9zujs30Yw). 2019-11-28.
+1. [收藏 \| 生物代谢通路数据库列表](https://mp.weixin.qq.com/s/7u5Y0G2d4xX4TSdmNwlf8Q). 2019-11-27. 
+1. [收藏 \| 蛋白质互作数据库列表](https://mp.weixin.qq.com/s/IauEFWfKiBzA5TPJMc4yeg). 2019-11-26. 
+1. [Linux tip \| 利用 tail 命令等待某个进程结束](https://mp.weixin.qq.com/s/BVYIKdp9kRA4ummksPgjIg). 2019-11-25.
+1. [Genome Biology \| 综述：鉴定结构变异的方法](https://mp.weixin.qq.com/s/7gjPuoxkyxvmQvFTnMQ5zQ). 2019-11-24.
+1. [RaGOO: 快速精确有参的 scaffolding 软件](https://mp.weixin.qq.com/s/KKtTPiZPyqKIVg0IdqSq5g). 2019-11-23.
+1. [OrthoFinder: 进化直系同源工具](https://mp.weixin.qq.com/s/T1XI5i1w5NeNU7fDNGvKuw). 2019-11-22.
+1. [KofamKOALA: 基于 HMM 的 KEGG 功能注释工具](https://mp.weixin.qq.com/s/vNI47yv8-Dk9wf6beE-vIA). 2019-11-21.
+1. [Kalign 3: 大数据集的多序列比对软件](https://mp.weixin.qq.com/s/TIGT3XFjRUZ3rZO1GPIKmw). 2019-11-09.
+1. [Perl 编程：判断两个 Intervals 是否重叠](https://mp.weixin.qq.com/s/1lUOjs9OItZqRwJflYk0nQ). 2019-08-08.
+1. [重要的不是谁获COPSS奖，而是它给我们的启发和思考](https://mp.weixin.qq.com/s/bjl2L-KiazCZB9Ww4ja24g). 2019-08-08.
+1. [Nature Plants \| 解决同源高倍体组装难题，福建农林大学公布ALLHiC算法](https://mp.weixin.qq.com/s/BZ1VS40qyJCyiCKW3xionA). 2019-08-06.
 1. [CHETAH: 单细胞 RNA 测序的一个选择性的、层级式的细胞类型鉴定方法](https://mp.weixin.qq.com/s/8X9Ok7xnTL4Jn3rrK7LkjQ). 2019-07-07.
 1. [NAR \| 鉴定调节DNA甲基化的基序](https://mp.weixin.qq.com/s/i3ZnlIvfYTBr-s-crnGHBg). 2019-07-06.
 1. [DeepSignal: 利用深度学习从 Nanopore 测序 reads 中检测 DNA 甲基化状态](https://mp.weixin.qq.com/s/QhJoOZ5HwrSm82-SOs9iNw). 2019-07-03.
