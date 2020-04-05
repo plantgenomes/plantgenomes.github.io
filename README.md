@@ -1,7 +1,20 @@
 # 植物基因组(plantgenomes)微信公众号推文列表
 
+## **2020**
+
+1. [grabseqs: 简单便捷下载 SRA 数据](https://mp.weixin.qq.com/s/i5HHATWiZIy4FIYqoP4dGQ). 2020-04-05.
+1. [Food & Function \| 巴西藜麦 BRS Piabiru 的营养价值、生化和生物活性特征](https://mp.weixin.qq.com/s/ECdvC4wdto1UBakhALl20A). 2020-04-03.
+1. [bioRxiv \| 基于三代测序技术的高质量的玉米基因组组装](https://mp.weixin.qq.com/s/-W2QUJYkZWLrtBpHmkBe5w). 2020-03-08.
+1. [鉴定环状 RNA 的工具](https://mp.weixin.qq.com/s/EfFpERsP4kczmLdhqxPNcQ). 2020-03-04.
+1. [环状 RNA 数据库](https://mp.weixin.qq.com/s/w9mPetOxNeRULw5RbDE-Bg). 2020-03-03.
+
 ## **2019**
 
+1. [科研进展 \| 基因组所阮珏团队开发大基因组混合组装新工具](https://mp.weixin.qq.com/s/1tkMH0tU3h90WddE2ATv9A). 2019-12-12.
+1. [Nature Methods \| 阮珏/李恒合作开发更快更精准的第三代测序数据组装算法——wtdbg2](https://mp.weixin.qq.com/s/YX-Robjf3gj2UgrlXgjqEQ). 2019-12-10.
+1. [收藏 \| 34 款 Hi-C 软件工具列表](https://mp.weixin.qq.com/s/AlKY4ZyFlJVtlX9MVGNHeg). 2019-12-09.
+1. [Differential splicing \| 十种差异剪切分析软件的评估](https://mp.weixin.qq.com/s/vdjiRnK1TNb4PWQBmCm73w). 2019-12-08.
+1. [SAMtools/BCFtools/HTSlib 发布新版本(v1.10)了](https://mp.weixin.qq.com/s/sJUcJgC4VM-jIqkjTyAFkQ). 2019-12-07.
 1. [Fusion-Bloom: 从组装的转录组中检测融合基因](https://mp.weixin.qq.com/s/qDpKj7q15z1sxdEZbTK6SQ). 2019-12-06.
 1. [Sequenceserver: 自定义 BLAST 数据库的摩登图形用户界面](https://mp.weixin.qq.com/s/b0ZQyN6Ov4Sb4SLk3QOzeg). 2019-12-01.
 1. [CDD/SPARCLE: 保守结构域数据库 2020](https://mp.weixin.qq.com/s/gCz1yQUZoAOj75L7qRgYFQ). 2019-11-30. 
