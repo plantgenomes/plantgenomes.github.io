@@ -1,7 +1,29 @@
 # 植物基因组(plantgenomes)微信公众号推文列表
 
+## **2021**
+
+1. [分享一本Docker的入门书籍《Docker——从入门到实践》https://yeasy.gitbook.io/docker_practice/](https://mp.weixin.qq.com/s/evhp1rpZruLsw961_PCYtg). 2021-08-29
+1. [人生苦短，不要浪费时间安装软件](https://mp.weixin.qq.com/s/bX5BjGJhMF1DMY5jRC156Q). 2021-08-28.
+1. [通过 singularity 运行 ltr_finder](https://mp.weixin.qq.com/s/s6qZdk_H9nZZsgON0_DTkg). 2021-08-19.
+1. [植物miRNA靶点互作数据库](https://mp.weixin.qq.com/s/1Rvtc2JcmtO0yeEf3EwQlA). 2021-04-02.
+1. [植物miRNA综合数据库](https://mp.weixin.qq.com/s/U0VJwe5DdI6haROIpRdH2w). 2021-03-31.
+
 ## **2020**
 
+1. [降香基因组](https://mp.weixin.qq.com/s/QcMLE0UKiGB0BQCDro-JPw). 2020-11-22.
+1. [美国紫珠基因组](https://mp.weixin.qq.com/s/Fac-Jx8gHEJGm8UQABViRw). 2020-11-21.
+1. [金银花基因组](https://mp.weixin.qq.com/s/_pGCdl6_xzWNNh-W_lTLCg). 2020-11-18.
+1. [枳基因组](https://mp.weixin.qq.com/s/CKIdXPFCx-0VgMZzs9oJQw). 2020-11-17. 
+1. [无芒隐子草基因组](https://mp.weixin.qq.com/s/WOYznH0fUaBrh-UBKphizQ). 2020-11-12. 
+1. [番石榴基因组](https://mp.weixin.qq.com/s/I1zm5eTFDQsP4PO_LgJv6Q). 2020-11-10. 
+1. [心翼酸模基因组](https://mp.weixin.qq.com/s/LFNPSLGtiCirsSC14_ReMw). 2020-11-09.
+1. [芒基因组](https://mp.weixin.qq.com/s/dtgEJbdTREwXQmCYZB1M6g). 2020-11-06. 
+1. [杜鹃花基因组](https://mp.weixin.qq.com/s/cXWEqWGJtKIJ_GffHjqkOA). 2020-11-04. 
+1. [slurm/sbatch 避开某些节点或只用某些节点](https://mp.weixin.qq.com/s/AMmChsNCq-eiNWmP6fZgJA). 2020-09-29.
+1. [Linux \| 利用 source 命令修改环境变量 PATH](https://mp.weixin.qq.com/s/DoeQgT4EQYpS14SAz0cu5g). 2020-05-30.
+1. [Nature Communications | 山椒鸡基因组](https://mp.weixin.qq.com/s/cHXWz_00llTkgXB1NW8CEQ). 2020-04-13. 
+1. [GigaScience \| 枇杷基因组](https://mp.weixin.qq.com/s/3qao2u5qCrWg-dBS0ITCOw). 2020-04-11.
+1. [R Markdown 格式转换为 Markdown 格式的方法](https://mp.weixin.qq.com/s/OTAWCYCrVyuewt9d4hQWSw). 2020-04-09.
 1. [grabseqs: 简单便捷下载 SRA 数据](https://mp.weixin.qq.com/s/i5HHATWiZIy4FIYqoP4dGQ). 2020-04-05.
 1. [Food & Function \| 巴西藜麦 BRS Piabiru 的营养价值、生化和生物活性特征](https://mp.weixin.qq.com/s/ECdvC4wdto1UBakhALl20A). 2020-04-03.
 1. [bioRxiv \| 基于三代测序技术的高质量的玉米基因组组装](https://mp.weixin.qq.com/s/-W2QUJYkZWLrtBpHmkBe5w). 2020-03-08.
