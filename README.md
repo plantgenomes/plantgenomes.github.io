@@ -21,7 +21,7 @@
 1. [杜鹃花基因组](https://mp.weixin.qq.com/s/cXWEqWGJtKIJ_GffHjqkOA). 2020-11-04. 
 1. [slurm/sbatch 避开某些节点或只用某些节点](https://mp.weixin.qq.com/s/AMmChsNCq-eiNWmP6fZgJA). 2020-09-29.
 1. [Linux \| 利用 source 命令修改环境变量 PATH](https://mp.weixin.qq.com/s/DoeQgT4EQYpS14SAz0cu5g). 2020-05-30.
-1. [Nature Communications | 山椒鸡基因组](https://mp.weixin.qq.com/s/cHXWz_00llTkgXB1NW8CEQ). 2020-04-13. 
+1. [Nature Communications \| 山椒鸡基因组](https://mp.weixin.qq.com/s/cHXWz_00llTkgXB1NW8CEQ). 2020-04-13. 
 1. [GigaScience \| 枇杷基因组](https://mp.weixin.qq.com/s/3qao2u5qCrWg-dBS0ITCOw). 2020-04-11.
 1. [R Markdown 格式转换为 Markdown 格式的方法](https://mp.weixin.qq.com/s/OTAWCYCrVyuewt9d4hQWSw). 2020-04-09.
 1. [grabseqs: 简单便捷下载 SRA 数据](https://mp.weixin.qq.com/s/i5HHATWiZIy4FIYqoP4dGQ). 2020-04-05.
