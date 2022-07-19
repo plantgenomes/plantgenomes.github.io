@@ -1,5 +1,11 @@
 # 植物基因组(plantgenomes)微信公众号推文列表
 
+---
+
+- <https://plantgenomes.github.io/Resources.html>
+
+---
+
 ## **2021**
 
 1. [分享一本Docker的入门书籍《Docker——从入门到实践》https://yeasy.gitbook.io/docker_practice/](https://mp.weixin.qq.com/s/evhp1rpZruLsw961_PCYtg). 2021-08-29
